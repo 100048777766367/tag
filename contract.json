@@ -1,0 +1,12 @@
+{
+    "contract_id": "bodhi.tag.v1",
+    "identity": "100048777766367/tag",
+    "genesis_root": "100048777766367/contract",
+    "archetype": "DATA_FOUNDRY",
+    "role": "AUTONOMOUS_INTRINSIC_TAGGER",
+    "network_partners": {
+        "open": "100048777766367/open",
+        "verify": "100048777766367/verify"
+    },
+    "io_specification": "I/O (AUTONOMOUS_INTRINSIC_TAGGER)"
+}
